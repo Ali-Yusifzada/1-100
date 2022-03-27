@@ -16,9 +16,9 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: #00d4ff;
-  background: -webkit-gradient(linear, left top, right top, from(#00d4ff), color-stop(11%, #00b0d4), color-stop(38%, rgba(178, 0, 255, 0.866842)), color-stop(73%, #9500d6));
-  background: linear-gradient(90deg, #00d4ff 0%, #00b0d4 11%, rgba(178, 0, 255, 0.866842) 38%, #9500d6 73%);
+  background: #00beff;
+  background: -webkit-gradient(linear, left top, right top, color-stop(17%, #00beff), color-stop(79%, #b700ff));
+  background: linear-gradient(90deg, #00beff 17%, #b700ff 79%);
 }
 
 .c1 {
